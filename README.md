@@ -7,7 +7,7 @@ Ouvrez le site GitHub Pages dans la descrition de ce dépot
 
 ## Utilisation hors ligne
 
-Téléchargez le fichier 'QRGen.html', ouvrez-le dans votre navigateur.
+Téléchargez le fichier ``QRGen.html``, ouvrez-le dans votre navigateur.
 Aucune installation n'est necessaire.
 
 ## Fonctionnalités
